@@ -4,6 +4,8 @@ This is a collection of editor themes based on the Opentrons color palette.
 
 Not all colors are in the base Opentrons palette. Saturation and lightness values vary to improve contrast while keeping an overall blue-tinted theme. Hue values stay true to the palette.
 
+![opetrons-theme-preview](https://github.com/ecormany/opentrons-themes/assets/1958332/4dd33815-6c63-4919-8605-f0cf1a19d34e)
+
 ## To do
 
 - [ ] Markdown and HTML colors
