@@ -7,7 +7,7 @@
 	<key>DifferenceHighlightColor</key>
 	<string>hsla(0.775, 0.171, 0.895, 1.000)</string>
 	<key>InsertionPointLineHighlightColor</key>
-	<string>hsla(0.623, 0.172, 0.243, 1.000)</string>
+	<string>hsla(0.117, 0.223, 0.984, 1.000)</string>
 	<key>InvisibleOthersColor</key>
 	<string>hsla(0.010, 0.787, 0.716, 1.000)</string>
 	<key>InvisibleSpacesColor</key>
@@ -51,11 +51,11 @@
 	<key>com.barebones.bblm.grep.charclass</key>
 	<string>hsla(0.916, 0.707, 0.785, 1.000)</string>
 	<key>com.barebones.bblm.grep.escape-sequence</key>
-	<string>hsla(0.781, 0.221, 0.854, 1.000)</string>
+	<string>hsla(0.781, 0.855, 0.855, 1.000)</string>
 	<key>com.barebones.bblm.grep.metachar</key>
-	<string>hsla(0.003, 0.236, 0.915, 1.000)</string>
+	<string>hsla(0.003, 0.823, 0.915, 1.000)</string>
 	<key>com.barebones.bblm.grep.metasequence</key>
-	<string>hsla(0.781, 0.221, 0.854, 1.000)</string>
+	<string>hsla(0.563, 1.000, 0.767, 1.000)</string>
 	<key>com.barebones.bblm.grep.posix-name</key>
 	<string>hsla(0.535, 0.873, 0.662, 1.000)</string>
 	<key>com.barebones.bblm.grep.repeat</key>
