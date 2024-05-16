@@ -117,7 +117,7 @@
 	<key>com.barebones.bblm.predefined-symbol</key>
 	<string>hsla(0.779, 0.468, 1.000, 1.000)</string>
 	<key>com.barebones.bblm.preprocessor</key>
-	<string>hsla(0.648, 0.779, 0.691, 1.000)</string>
+	<string>hsla(0.578, 0.627, 0.976, 1.000)</string>
 	<key>com.barebones.bblm.ruby.regexp</key>
 	<string>hsla(1.000, 1.000, 0.668, 1.000)</string>
 	<key>com.barebones.bblm.ruby.symbol</key>
